@@ -1,0 +1,1 @@
+A small collection of non-animated sorting algorithms I used for various projects throughout the year.
