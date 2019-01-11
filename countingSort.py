@@ -18,8 +18,8 @@ def countingSort(arr):
                 sortedPlaceholder += 1
     return sortedList
 
-thing = [0] * 1000000
+numList = [0] * 1000000
 for k in range(1000000):
-    thing[k] = randint(0,1000000)
+    numList[k] = randint(0,1000000)
 
-print (countingSort(thing))
+print (countingSort(numList))
