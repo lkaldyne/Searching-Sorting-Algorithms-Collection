@@ -1,1 +1,1 @@
-A small collection of non-animated sorting algorithms I used for various projects throughout the year.
+A collection of different searching, sorting, and scanning algorithms. Some are used often, others were made just for fun. This repo was made with the intention of not having to re-invent the wheel constantly. Commonly used searching and sorting algorithms have been implemented and modularized for re-used and can be taken from here. This repo is updated whenever new, useful modules are created. 
